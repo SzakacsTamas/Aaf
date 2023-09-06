@@ -11,6 +11,11 @@ namespace elso
         static void Main(string[] args)
         {
             Console.WriteLine("Helló Világ!");
+            Console.WriteLine("Helló Világ!"[4]);
+            double szam = 8.5;
+            Console.WriteLine(szam);
+            char a = 'k';
+            Console.WriteLine(a);
         }
     }
 }
