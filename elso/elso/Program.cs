@@ -53,8 +53,65 @@ namespace elso
                 default:
                     Console.WriteLine("valami más");
                     break;
+
+               
             }
-            
+            double szam2 = 1;
+            while (szam2<5)
+            {
+                Console.WriteLine(szam2);
+                szam2 += 0.1;
+            }
+            do
+            {
+                szam2 -= .2;
+                Console.WriteLine(szam2);
+            }
+            while (szam2 > 2);
+
+            char betu = 'a';
+            while (betu<='z')
+            {
+                Console.Write(betu);
+                betu = (char)(betu + 1);
+            }
+            int szam32 = 32;
+            while (szam32<=250)
+                
+            {
+
+                Console.Write((char)szam32 + " ");
+                if (szam32 % 8 == 7)
+                {
+                    Console.WriteLine();
+                }
+                szam32++;
+              
+                
+
+
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            for (int k=0; k<10; k++)
+            {
+                Console.WriteLine(k);
+            }
+            int szamol=0;
+            for (int f = 1; f <=15; f++)
+            {
+                szamol += f;
+            }
+            Console.WriteLine(szamol);
+
+            for (int g=9; g>0; g--)
+            {
+                Console.WriteLine(g);
+            }
+            for (int h = 0; h < 10; h++)
+            {
+                Console.WriteLine(9 - h);
+            }
         }
     }
 }
