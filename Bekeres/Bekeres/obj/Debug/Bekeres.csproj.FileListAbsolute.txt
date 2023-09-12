@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\bin\Debug\Bekeres.exe.config
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\bin\Debug\Bekeres.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\bin\Debug\Bekeres.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\obj\Debug\Bekeres.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\obj\Debug\Bekeres.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\obj\Debug\Bekeres.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Bekeres\Bekeres\obj\Debug\Bekeres.pdb

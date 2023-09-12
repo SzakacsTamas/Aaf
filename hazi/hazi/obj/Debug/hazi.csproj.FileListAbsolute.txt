@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\bin\Debug\hazi.exe.config
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\bin\Debug\hazi.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\bin\Debug\hazi.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\obj\Debug\hazi.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\obj\Debug\hazi.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\obj\Debug\hazi.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\hazi\hazi\obj\Debug\hazi.pdb
