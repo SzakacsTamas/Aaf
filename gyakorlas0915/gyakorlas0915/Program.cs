@@ -18,8 +18,27 @@ for (int i=1; i<=a; i++)
     Console.WriteLine();
 }
 */
-
-for (int i = 0; i < 999; i++)
+/*
+int szam = 0;
+for (int i = 0; i < 1000; i++)
 {
-    Console.WriteLine(i + i);
+    szam += i;
+    if (szam< 999)
+    {
+        Console.WriteLine(szam);
+    }
+    else
+    {
+        Console.WriteLine(i-1);
+        break;
+    }
+    
+  
+    
 }
+*/
+Console.Write("Kérjen be egy kétjegyű számot: ");
+int szam = Convert.ToInt32(Console.ReadLine());
+
+/* Csak 2 jegyű lehet*/
+
