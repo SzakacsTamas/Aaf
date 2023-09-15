@@ -1,0 +1,2 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\C# Aaf\Aaf\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.CoreCompileInputs.cache
