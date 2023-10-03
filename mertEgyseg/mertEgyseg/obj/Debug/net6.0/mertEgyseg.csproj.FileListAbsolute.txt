@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\bin\Debug\net6.0\mertEgyseg.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\bin\Debug\net6.0\mertEgyseg.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\bin\Debug\net6.0\mertEgyseg.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\bin\Debug\net6.0\mertEgyseg.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\bin\Debug\net6.0\mertEgyseg.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\refint\mertEgyseg.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\mertEgyseg.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\mertEgyseg\mertEgyseg\obj\Debug\net6.0\ref\mertEgyseg.dll
