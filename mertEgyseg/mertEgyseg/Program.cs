@@ -22,7 +22,10 @@ while (!jo)
     {
 
         Console.WriteLine("Nem jó formátum! Legyen ilyen: 10,2 kg");
-        
+        jo = false;
+        continue;
+
+
     }
     Console.WriteLine(szam);
 
