@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\bin\Debug\net6.0\randomSzamok.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\bin\Debug\net6.0\randomSzamok.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\bin\Debug\net6.0\randomSzamok.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\bin\Debug\net6.0\randomSzamok.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\bin\Debug\net6.0\randomSzamok.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\refint\randomSzamok.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\randomSzamok.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\randomSzamok\randomSzamok\obj\Debug\net6.0\ref\randomSzamok.dll
