@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\bin\Debug\net6.0\TombGyakorlas.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\bin\Debug\net6.0\TombGyakorlas.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\bin\Debug\net6.0\TombGyakorlas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\bin\Debug\net6.0\TombGyakorlas.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\bin\Debug\net6.0\TombGyakorlas.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\refint\TombGyakorlas.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\TombGyakorlas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás\Aaf\TombGyakorlas\TombGyakorlas\obj\Debug\net6.0\ref\TombGyakorlas.dll
