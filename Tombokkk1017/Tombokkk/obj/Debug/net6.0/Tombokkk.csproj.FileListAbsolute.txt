@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\bin\Debug\net6.0\Tombokkk.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\bin\Debug\net6.0\Tombokkk.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\bin\Debug\net6.0\Tombokkk.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\bin\Debug\net6.0\Tombokkk.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\bin\Debug\net6.0\Tombokkk.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\refint\Tombokkk.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\Tombokkk.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Tombokkk\Tombokkk\obj\Debug\net6.0\ref\Tombokkk.dll
