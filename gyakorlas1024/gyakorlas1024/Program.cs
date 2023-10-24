@@ -62,8 +62,9 @@ while (szo == "")
     ujSzo = "";
     for (int i = 0; i < szo.Length; i+=2)
     {
-        ujSzo+=szo.Substring(szo.Length-1-1)
+        ujSzo += szo.Substring(szo.Length - 1 - 1, 2);
     }
+    Console.WriteLine(ujSzo);
 }
-
+//HÁZI:::: MELYIK BETŰBÓL HÁNY DB VAN?
 
