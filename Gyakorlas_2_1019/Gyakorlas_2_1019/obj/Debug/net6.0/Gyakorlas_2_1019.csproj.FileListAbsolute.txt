@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\bin\Debug\net6.0\Gyakorlas_2_1019.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\bin\Debug\net6.0\Gyakorlas_2_1019.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\bin\Debug\net6.0\Gyakorlas_2_1019.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\bin\Debug\net6.0\Gyakorlas_2_1019.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\bin\Debug\net6.0\Gyakorlas_2_1019.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\refint\Gyakorlas_2_1019.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\Gyakorlas_2_1019.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Gyakorlas_2_1019\Gyakorlas_2_1019\obj\Debug\net6.0\ref\Gyakorlas_2_1019.dll

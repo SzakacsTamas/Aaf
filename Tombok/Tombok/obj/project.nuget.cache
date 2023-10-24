@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FsZpmjAoQ4EoS0Bgj2r5bHJrFxDBfR3BNcw+G1JQypryT2Wiet8ha50QeSC2RnrhficTeW0O3W6K88UwbIQQCA==",
+=======
+  "dgSpecHash": "umlFwj4BmK7LfDMyUGPn3Ahp4OWM9drFcnClw9v6CNOXKOuiUDRVddiikiDqHbQbXxuHnulA41xQzMLD3+AnQA==",
+>>>>>>> 035130f50b0cbeed9960a7035e5ee3aca28ac043
   "success": true,
   "projectFilePath": "D:\\Helyi_munkakönyvtár\\Szakács Tamás\\Aaf\\Tombok\\Tombok\\Tombok.csproj",
   "expectedPackageFiles": [],
