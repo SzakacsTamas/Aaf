@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\bin\Debug\net6.0\FileKezeles1025.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\bin\Debug\net6.0\FileKezeles1025.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\bin\Debug\net6.0\FileKezeles1025.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\bin\Debug\net6.0\FileKezeles1025.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\bin\Debug\net6.0\FileKezeles1025.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\refint\FileKezeles1025.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\FileKezeles1025.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\FileKezeles1025\FileKezeles1025\obj\Debug\net6.0\ref\FileKezeles1025.dll
