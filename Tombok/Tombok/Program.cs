@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿
+=======
 ﻿/*
 void kiir(int[] tomb)
 {
@@ -68,3 +71,4 @@ for (int i = 0;i < tabla.GetLength(0); i++)
     }
     Console.WriteLine();
 }
+>>>>>>> 035130f50b0cbeed9960a7035e5ee3aca28ac043
