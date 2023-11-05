@@ -1,0 +1,14 @@
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\bin\Debug\net6.0\SzunetHazi.exe
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\bin\Debug\net6.0\SzunetHazi.deps.json
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\bin\Debug\net6.0\SzunetHazi.runtimeconfig.json
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\bin\Debug\net6.0\SzunetHazi.dll
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\bin\Debug\net6.0\SzunetHazi.pdb
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.AssemblyInfoInputs.cache
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.AssemblyInfo.cs
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.csproj.CoreCompileInputs.cache
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.dll
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\refint\SzunetHazi.dll
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.pdb
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\SzunetHazi.genruntimeconfig.cache
+C:\Users\szakt\Desktop\SzunetHazi\SzunetHazi\obj\Debug\net6.0\ref\SzunetHazi.dll
