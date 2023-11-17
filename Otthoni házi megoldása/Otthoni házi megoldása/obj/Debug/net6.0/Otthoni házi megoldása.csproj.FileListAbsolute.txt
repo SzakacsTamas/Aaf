@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\bin\Debug\net6.0\Otthoni házi megoldása.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\bin\Debug\net6.0\Otthoni házi megoldása.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\bin\Debug\net6.0\Otthoni házi megoldása.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\bin\Debug\net6.0\Otthoni házi megoldása.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\bin\Debug\net6.0\Otthoni házi megoldása.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\refint\Otthoni házi megoldása.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\Otthoni házi megoldása.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Otthoni házi megoldása\Otthoni házi megoldása\obj\Debug\net6.0\ref\Otthoni házi megoldása.dll
