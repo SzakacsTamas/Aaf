@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\bin\Debug\net6.0\DolgozatMEGOLDAS.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\bin\Debug\net6.0\DolgozatMEGOLDAS.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\bin\Debug\net6.0\DolgozatMEGOLDAS.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\bin\Debug\net6.0\DolgozatMEGOLDAS.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\bin\Debug\net6.0\DolgozatMEGOLDAS.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\refint\DolgozatMEGOLDAS.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\DolgozatMEGOLDAS.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\DolgozatMEGOLDAS\DolgozatMEGOLDAS\obj\Debug\net6.0\ref\DolgozatMEGOLDAS.dll
