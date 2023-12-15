@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\bin\Debug\net6.0\OOP2.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\bin\Debug\net6.0\OOP2.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\bin\Debug\net6.0\OOP2.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\bin\Debug\net6.0\OOP2.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\bin\Debug\net6.0\OOP2.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\refint\OOP2.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\OOP2\OOP2\obj\Debug\net6.0\ref\OOP2.dll

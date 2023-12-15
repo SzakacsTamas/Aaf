@@ -43,7 +43,7 @@ void betolt2()
 
 void betolt3()
 {
-    string[] sorok = File.ReadAllLines("adathalmaz.csv");
+    string[] sorok = File.ReadAllLines("adathalmaz.csv").ToList().Skip(1).ToArray();
     foreach(string sor in sorok) 
     {
         string[] vag = sor.Split(";");
@@ -57,4 +57,14 @@ void betolt3()
 }
 
 
-betolt();
+Console.WriteLine("2 Feladat \n Ennyi adatsor van{0}",percek.Count);
+
+Console.WriteLine("3 Feladat \n Átlagos termelés {0} db/óra", darab[darab.Count -1]/24);
+
+Console.WriteLine("4 Feladat \n Min1 {0}, Min2 {1} Min3 {2}, Min4");
+double maximum = ho1[0];
+int maxIndex = 0;
+
+
+List<int> darab5Perc = new List<int>();
+darab5Perc.Add(darab[0]);
