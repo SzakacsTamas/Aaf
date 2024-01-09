@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\bin\Debug\net6.0\Oop1-09-2024.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\bin\Debug\net6.0\Oop1-09-2024.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\bin\Debug\net6.0\Oop1-09-2024.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\bin\Debug\net6.0\Oop1-09-2024.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\bin\Debug\net6.0\Oop1-09-2024.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\refint\Oop1-09-2024.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\Oop1-09-2024.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\Oop1-09-2024\Oop1-09-2024\obj\Debug\net6.0\ref\Oop1-09-2024.dll
