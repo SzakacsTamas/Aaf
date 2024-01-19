@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\bin\Debug\net6.0\PotloDoga.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\bin\Debug\net6.0\PotloDoga.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\bin\Debug\net6.0\PotloDoga.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\bin\Debug\net6.0\PotloDoga.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\bin\Debug\net6.0\PotloDoga.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\refint\PotloDoga.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\PotloDoga.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\PotloDoga\PotloDoga\obj\Debug\net6.0\ref\PotloDoga.dll

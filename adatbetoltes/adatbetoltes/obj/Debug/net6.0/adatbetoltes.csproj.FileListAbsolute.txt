@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\bin\Debug\net6.0\adatbetoltes.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\bin\Debug\net6.0\adatbetoltes.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\bin\Debug\net6.0\adatbetoltes.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\bin\Debug\net6.0\adatbetoltes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\bin\Debug\net6.0\adatbetoltes.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\refint\adatbetoltes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\adatbetoltes.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\adatbetoltes\adatbetoltes\obj\Debug\net6.0\ref\adatbetoltes.dll

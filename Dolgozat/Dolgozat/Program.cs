@@ -16,12 +16,12 @@ while (!szoveg.EndOfStream)
     string line = szoveg.ReadLine();
     string[] adat = new string[6];
     adat = line.Split(";");
-    /*
+    
     foreach (string s in adat)
     {
         Console.WriteLine(s);
     }
-    */
+    
     perc.Add(int.Parse(adat[0]));
     darab.Add(int.Parse(adat[5]));
   
