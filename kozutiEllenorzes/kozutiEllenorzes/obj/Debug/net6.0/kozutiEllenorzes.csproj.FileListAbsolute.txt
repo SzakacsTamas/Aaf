@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\bin\Debug\net6.0\kozutiEllenorzes.exe
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\bin\Debug\net6.0\kozutiEllenorzes.deps.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\bin\Debug\net6.0\kozutiEllenorzes.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\bin\Debug\net6.0\kozutiEllenorzes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\bin\Debug\net6.0\kozutiEllenorzes.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\refint\kozutiEllenorzes.dll
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.pdb
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\kozutiEllenorzes.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Szakács Tamás 11.C\Aaf\kozutiEllenorzes\kozutiEllenorzes\obj\Debug\net6.0\ref\kozutiEllenorzes.dll
