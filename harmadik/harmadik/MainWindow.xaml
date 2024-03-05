@@ -1,0 +1,45 @@
+﻿<Window x:Class="harmadik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harmadik"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="Elsőfül">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Másodikfül">
+                <Grid Background="#FFE5E5E5">
+                    <StackPanel Background="#FFC11C1C" Margin="0,0,667,0"/>
+                    <WrapPanel Margin="656,0,0,0">
+                        <WrapPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FFFF2121" Offset="1"/>
+                            </LinearGradientBrush>
+                        </WrapPanel.Background>
+                    </WrapPanel>
+                    <StackPanel Margin="225,0,229,259">
+                        <StackPanel.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="#FF12E86D" Offset="1"/>
+                            </LinearGradientBrush>
+                        </StackPanel.Background>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem HorizontalAlignment="Center" Height="20" Header="Harmadik" VerticalAlignment="Center" >
+                <StackPanel>
+                    <StackPanel Height="100" Background="#FF5FC1FF" Width="418"/>
+                    <WrapPanel Height="100" Background="#FFFF9999" Width="494"/>
+                    <ScrollBar x:Name="scrollBar"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="wpfgyak02._23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfgyak02._23"
+        mc:Ignorable="d"
+        Title="Űrlap" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label1" Content="Név:" HorizontalAlignment="Left" Margin="73,73,0,0" VerticalAlignment="Top" Width="53" Background="#FFCEC8C8"/>
+        <Label x:Name="label2" Content="Születési hely:" HorizontalAlignment="Left" Margin="73,129,0,0" VerticalAlignment="Top" Width="107" Background="#FFDAD6D6"/>
+        <Label x:Name="label3" Content="Életkor:&#xD;&#xA;" HorizontalAlignment="Left" Margin="73,191,0,0" VerticalAlignment="Top" Width="62" Background="#FFCAC2C2"/>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="227,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textbox1_TextChanged"/>
+        <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="227,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox3" HorizontalAlignment="Left" Margin="227,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="gomb" Content="Mentés&#xD;&#xA;" HorizontalAlignment="Left" Margin="261,288,0,0" VerticalAlignment="Top" Height="35" Width="63" Click="gomb_Click"/>
+        <ListBox x:Name="listbox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="400,68,34,68" SelectionChanged="ListBox_SelectionChanged" Background="#FFE2A55C" MouseUp="listbox_MouseUp"/>
+        <Button Content="visszaad" HorizontalAlignment="Left" Margin="73,303,0,0" VerticalAlignment="Top" Height="35" Width="70"/>
+
+    </Grid>
+</Window>
